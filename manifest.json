@@ -16,7 +16,7 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": "/PriceGuessGame/index.html",
+  "start_url": "/Guess/index.html",
   "background_color": "#ff4e50",
   "theme_color": "#f9d423",
   "display": "standalone",
